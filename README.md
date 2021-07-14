@@ -9,3 +9,9 @@ Aplicação em React que implementa `react-router-dom` e `axios` para conectar n
 - em /repositories, recupera os dados do localStorage para exibir em lista e depois limpa os dados do localStorage
 - se não houver repositório para exibir, direciona o usuário de volta para página inicial com o `useHistory`
 
+**Como executar o projeto:**
+- clonar o repositório: ` git clone https://github.com/malufell/lista-repositorios-github.git`
+- entrar na pasta do projeto: `cd lista-repositorios-github`
+- instalar as dependências: `npm install`
+- iniciar a aplicação: `npm start`
+- acessar `http://localhost:3000/`
